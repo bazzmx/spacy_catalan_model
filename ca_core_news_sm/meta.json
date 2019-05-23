@@ -1,0 +1,22 @@
+{
+  "version":"0.0.0",
+  "name":"core_news_sm",
+  "vectors":{
+    "keys":0,
+    "vectors":0,
+    "name":"spacy_pretrained_vectors",
+    "width":0
+  },
+  "pipeline":[
+    "tagger",
+    "parser",
+    "ner"
+  ],
+  "email":"",
+  "license":"",
+  "spacy_version":">=2.0.13",
+  "url":"",
+  "lang":"ca",
+  "author":"",
+  "description":""
+}
